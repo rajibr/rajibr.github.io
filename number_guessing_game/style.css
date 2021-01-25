@@ -1,0 +1,18 @@
+html {
+    font-family: sans-serif;
+}
+
+body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    background: #000000;
+    color: #ffffff;
+}
+
+.lastResult {
+    color: #fff;
+    padding: 3px;
+}
